@@ -1,0 +1,222 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultimate_Random_Maps-1.12\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-11-30 19:03+0100\n"
+"PO-Revision-Date: 2013-11-30 19:03+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. [time]: id=srm_citadel
+#: Ultimate_Random_Maps/generators/_mapgen.cfg:134
+#: Ultimate_Random_Maps/scenarios/scenarios.cfg:31
+msgid "Citadel"
+msgstr ""
+
+#. [time]: id=srm_illuminated_cave
+#: Ultimate_Random_Maps/generators/_mapgen.cfg:145
+msgid "Illuminated Cave"
+msgstr ""
+
+#. [time]: id=srm_light
+#: Ultimate_Random_Maps/generators/_mapgen.cfg:154
+msgid "Light"
+msgstr ""
+
+#. [time]: id=srm_twilight
+#: Ultimate_Random_Maps/generators/_mapgen.cfg:163
+msgid "Twilight"
+msgstr ""
+
+#. [time]: id=srm_darkness
+#: Ultimate_Random_Maps/generators/_mapgen.cfg:173
+msgid "Darkness"
+msgstr ""
+
+#. [multiplayer]: id=URM - {ID}
+#: Ultimate_Random_Maps/scenarios/scenarios.cfg:14
+msgid "Version "
+msgstr ""
+
+#. [multiplayer]: id=URM - {ID}
+#: Ultimate_Random_Maps/scenarios/scenarios.cfg:15
+msgid "Designed by SigurdFireDragon."
+msgstr ""
+
+#: Ultimate_Random_Maps/scenarios/scenarios.cfg:28
+msgid "A group of small islands is the scene of this battle."
+msgstr ""
+
+#: Ultimate_Random_Maps/scenarios/scenarios.cfg:28
+msgid "Archipelago"
+msgstr ""
+
+#: Ultimate_Random_Maps/scenarios/scenarios.cfg:29
+msgid "Barren"
+msgstr ""
+
+#: Ultimate_Random_Maps/scenarios/scenarios.cfg:29
+msgid ""
+"Battle it out in the desolate northern lands, admist muddy quagmires, hills "
+"and barren terrain."
+msgstr ""
+
+#: Ultimate_Random_Maps/scenarios/scenarios.cfg:30
+msgid ""
+"Venture underground into a realm of darkness and fight inside a vast cavern."
+msgstr ""
+
+#: Ultimate_Random_Maps/scenarios/scenarios.cfg:30
+msgid "Cave"
+msgstr ""
+
+#: Ultimate_Random_Maps/scenarios/scenarios.cfg:31
+msgid "Fight inside a great citadel, a place sacred to lawful forces."
+msgstr ""
+
+#: Ultimate_Random_Maps/scenarios/scenarios.cfg:32
+msgid ""
+"Desert is the primary terrain. Based on manline Random map (Desert), with a "
+"few changes."
+msgstr ""
+
+#: Ultimate_Random_Maps/scenarios/scenarios.cfg:32
+msgid "Desert"
+msgstr ""
+
+#: Ultimate_Random_Maps/scenarios/scenarios.cfg:33
+msgid "Flood"
+msgstr ""
+
+#: Ultimate_Random_Maps/scenarios/scenarios.cfg:33
+msgid "Fight in a flooded valley."
+msgstr ""
+
+#: Ultimate_Random_Maps/scenarios/scenarios.cfg:34
+msgid "Forest"
+msgstr ""
+
+#: Ultimate_Random_Maps/scenarios/scenarios.cfg:34
+msgid "Venture into elven territory for this battle."
+msgstr ""
+
+#: Ultimate_Random_Maps/scenarios/scenarios.cfg:35
+msgid "Time is broken here, with each hex having its own fixed time."
+msgstr ""
+
+#: Ultimate_Random_Maps/scenarios/scenarios.cfg:35
+msgid "Fracture"
+msgstr ""
+
+#: Ultimate_Random_Maps/scenarios/scenarios.cfg:36
+msgid ""
+"A bitter cold land where there is snow and ice as far as the eye can see."
+msgstr ""
+
+#: Ultimate_Random_Maps/scenarios/scenarios.cfg:36
+msgid "Frozen"
+msgstr ""
+
+#: Ultimate_Random_Maps/scenarios/scenarios.cfg:37
+msgid "Island"
+msgstr ""
+
+#: Ultimate_Random_Maps/scenarios/scenarios.cfg:37
+msgid "Waves wash against the shore of this island battlefiend."
+msgstr ""
+
+#: Ultimate_Random_Maps/scenarios/scenarios.cfg:38
+msgid "Jungle"
+msgstr ""
+
+#: Ultimate_Random_Maps/scenarios/scenarios.cfg:38
+msgid "Thick jungles, swamps, and bright tropical water cover this landscape."
+msgstr ""
+
+#: Ultimate_Random_Maps/scenarios/scenarios.cfg:39
+msgid "Lava"
+msgstr ""
+
+#: Ultimate_Random_Maps/scenarios/scenarios.cfg:39
+msgid ""
+"The lava and the light from the surface make this dry cave illuminated as if "
+"it was twilight."
+msgstr ""
+
+#: Ultimate_Random_Maps/scenarios/scenarios.cfg:40
+msgid ""
+"Swamp is the primary terrain. Based on mainline Random map (Marsh), with a "
+"few changes."
+msgstr ""
+
+#: Ultimate_Random_Maps/scenarios/scenarios.cfg:40
+msgid "Marsh"
+msgstr ""
+
+#: Ultimate_Random_Maps/scenarios/scenarios.cfg:41
+msgid ""
+"Explore the dwarven realms of mountains and the caves underneath in this "
+"rugged map."
+msgstr ""
+
+#: Ultimate_Random_Maps/scenarios/scenarios.cfg:41
+msgid "Mountains"
+msgstr ""
+
+#: Ultimate_Random_Maps/scenarios/scenarios.cfg:42
+msgid "Ocean"
+msgstr ""
+
+#: Ultimate_Random_Maps/scenarios/scenarios.cfg:42
+msgid "Flyers and sea creatures have the advantage in this watery map."
+msgstr ""
+
+#: Ultimate_Random_Maps/scenarios/scenarios.cfg:43
+msgid "River"
+msgstr ""
+
+#: Ultimate_Random_Maps/scenarios/scenarios.cfg:43
+msgid ""
+"Meeting the challenge of fording the river is the key to victory on this map."
+msgstr ""
+
+#: Ultimate_Random_Maps/scenarios/scenarios.cfg:44
+msgid ""
+"A variety of terran awaits you on this map. Based on mainline Random map, "
+"with a few changes."
+msgstr ""
+
+#: Ultimate_Random_Maps/scenarios/scenarios.cfg:44
+msgid "Vale"
+msgstr ""
+
+#: Ultimate_Random_Maps/scenarios/scenarios.cfg:45
+msgid "Do battle on the parched, barren land surrounding an active volcano."
+msgstr ""
+
+#: Ultimate_Random_Maps/scenarios/scenarios.cfg:45
+msgid "Volcano"
+msgstr ""
+
+#: Ultimate_Random_Maps/scenarios/scenarios.cfg:46
+msgid "Wastes"
+msgstr ""
+
+#: Ultimate_Random_Maps/scenarios/scenarios.cfg:46
+msgid "Sand is everywhere in this extremely harsh environment."
+msgstr ""
+
+#: Ultimate_Random_Maps/scenarios/scenarios.cfg:47
+msgid ""
+"Snow is the primary terrain. Based on mainline Random map (Winter), with a "
+"few changes."
+msgstr ""
+
+#: Ultimate_Random_Maps/scenarios/scenarios.cfg:47
+msgid "Winter"
+msgstr ""
