@@ -17,207 +17,207 @@ msgstr ""
 #: Ultimate_Random_Maps/generators/_mapgen.cfg:134
 #: Ultimate_Random_Maps/scenarios/scenarios.cfg:31
 msgid "Citadel"
-msgstr ""
+msgstr "Цитадель"
 
 #. [time]: id=srm_illuminated_cave
 #: Ultimate_Random_Maps/generators/_mapgen.cfg:145
 msgid "Illuminated Cave"
-msgstr ""
+msgstr "Украшенная Огнями Пещера"
 
 #. [time]: id=srm_light
 #: Ultimate_Random_Maps/generators/_mapgen.cfg:154
 msgid "Light"
-msgstr ""
+msgstr "Свет"
 
 #. [time]: id=srm_twilight
 #: Ultimate_Random_Maps/generators/_mapgen.cfg:163
 msgid "Twilight"
-msgstr ""
+msgstr "Сумерки"
 
 #. [time]: id=srm_darkness
 #: Ultimate_Random_Maps/generators/_mapgen.cfg:173
 msgid "Darkness"
-msgstr ""
+msgstr "Тьма"
 
 #. [multiplayer]: id=URM - {ID}
 #: Ultimate_Random_Maps/scenarios/scenarios.cfg:14
 msgid "Version"
-msgstr ""
+msgstr "Версия"
 
 #. [multiplayer]: id=URM - {ID}
 #: Ultimate_Random_Maps/scenarios/scenarios.cfg:15
 msgid "Programming & Design by SigurdFireDragon."
-msgstr ""
+msgstr "Программирование И Дизайн писал SigurdFireDragon."
 
 #: Ultimate_Random_Maps/scenarios/scenarios.cfg:28
 msgid "A group of small islands is the scene of this battle."
-msgstr ""
+msgstr "Группа малениких островков - сцена этой битвы."
 
 #: Ultimate_Random_Maps/scenarios/scenarios.cfg:28
 msgid "Archipelago"
-msgstr ""
+msgstr "Архипелаг"
 
 #: Ultimate_Random_Maps/scenarios/scenarios.cfg:29
 msgid "Barren"
-msgstr ""
+msgstr "Пустоши"
 
 #: Ultimate_Random_Maps/scenarios/scenarios.cfg:29
 msgid ""
 "Battle it out in the desolate northern lands, admist muddy quagmires, hills "
 "and barren terrain."
-msgstr ""
+msgstr "Сразитесь в пустынных северных землях, среди мутных трясин, холмы и пустоши."
 
 #: Ultimate_Random_Maps/scenarios/scenarios.cfg:30
 msgid ""
 "Venture underground into a realm of darkness and fight inside a vast cavern."
-msgstr ""
+msgstr "Пройдите подземлю в королевстве тьмы и деритесь в обширной бещере."
 
 #: Ultimate_Random_Maps/scenarios/scenarios.cfg:30
 msgid "Cave"
-msgstr ""
+msgstr "Пещера"
 
 #: Ultimate_Random_Maps/scenarios/scenarios.cfg:31
 msgid "Fight inside a great citadel, a place sacred to lawful forces."
-msgstr ""
+msgstr "Сразитесь внутри великой цитадели, месте священном для правоменых войск."
 
 #: Ultimate_Random_Maps/scenarios/scenarios.cfg:32
 msgid ""
 "Desert is the primary terrain. Based on manline Random map (Desert), with a "
 "few changes."
-msgstr ""
+msgstr "Пустыня - главный ландшафт этой карты. Основано на карте Случайная Карта (Пустыня), с небольшим количеством изменений."
 
 #: Ultimate_Random_Maps/scenarios/scenarios.cfg:32
 msgid "Desert"
-msgstr ""
+msgstr "Пустыня"
 
 #: Ultimate_Random_Maps/scenarios/scenarios.cfg:33
 msgid "Flood"
-msgstr ""
+msgstr "Потоп"
 
 #: Ultimate_Random_Maps/scenarios/scenarios.cfg:33
 msgid "Fight in a flooded valley."
-msgstr ""
+msgstr "Сразитесь в затопленной долине."
 
 #: Ultimate_Random_Maps/scenarios/scenarios.cfg:34
 msgid "Forest"
-msgstr ""
+msgstr "Лес"
 
 #: Ultimate_Random_Maps/scenarios/scenarios.cfg:34
 msgid "Venture into elven territory for this battle."
-msgstr ""
+msgstr "Пройдите в эльфийскую территорию в этой битве."
 
 #: Ultimate_Random_Maps/scenarios/scenarios.cfg:35
 msgid "Time is broken here, with each hex having its own fixed time."
-msgstr ""
+msgstr "Время сломано в этой месте, и у каждой клетке есть своё фиксированное время."
 
 #: Ultimate_Random_Maps/scenarios/scenarios.cfg:35
 msgid "Fracture"
-msgstr ""
+msgstr "Разрыв"
 
 #: Ultimate_Random_Maps/scenarios/scenarios.cfg:36
 msgid ""
 "A bitter cold land where there is snow and ice as far as the eye can see."
-msgstr ""
+msgstr "Жестокая холодная земля, где видно снег и лёд так далеко, как глаз может видет."
 
 #: Ultimate_Random_Maps/scenarios/scenarios.cfg:36
 msgid "Frozen"
-msgstr ""
+msgstr "Мерзлота"
 
 #: Ultimate_Random_Maps/scenarios/scenarios.cfg:37
 msgid "Island"
-msgstr ""
+msgstr "Остров"
 
 #: Ultimate_Random_Maps/scenarios/scenarios.cfg:37
 msgid "Waves wash against the shore of this island battlefiend."
-msgstr ""
+msgstr "Волны омывают берег этого островного поля боя."
 
 #: Ultimate_Random_Maps/scenarios/scenarios.cfg:38
 msgid "Jungle"
-msgstr ""
+msgstr "Джунгли"
 
 #: Ultimate_Random_Maps/scenarios/scenarios.cfg:38
 msgid "Thick jungles, swamps, and bright tropical water cover this landscape."
-msgstr ""
+msgstr "Густые джунгли, болота и яркая тропическая вода покрывают этот ландшафт."
 
 #: Ultimate_Random_Maps/scenarios/scenarios.cfg:39
 msgid "Lava"
-msgstr ""
+msgstr "Лава"
 
 #: Ultimate_Random_Maps/scenarios/scenarios.cfg:39
 msgid ""
 "The lava and the light from the surface make this dry cave illuminated as if "
 "it was twilight."
-msgstr ""
+msgstr "Лава и свет от поверхности делают эту сухую пещеру освещённой, как будто здесь сумерки."
 
 #: Ultimate_Random_Maps/scenarios/scenarios.cfg:40
 msgid ""
 "Swamp is the primary terrain. Based on mainline Random map (Marsh), with a "
 "few changes."
-msgstr ""
+msgstr "Болото - главный ланшафт этой карты. Основано на Случайная Карта (Болото), но с некотороми изменениями."
 
 #: Ultimate_Random_Maps/scenarios/scenarios.cfg:40
 msgid "Marsh"
-msgstr ""
+msgstr "Болото"
 
 #: Ultimate_Random_Maps/scenarios/scenarios.cfg:41
 msgid ""
 "Explore the dwarven realms of mountains and the caves underneath in this "
 "rugged map."
-msgstr ""
+msgstr "Исследуйте королевство гномов из гор и пещер в этой суровой карте."
 
 #: Ultimate_Random_Maps/scenarios/scenarios.cfg:41
 msgid "Mountains"
-msgstr ""
+msgstr "Горы"
 
 #: Ultimate_Random_Maps/scenarios/scenarios.cfg:42
 msgid "Ocean"
-msgstr ""
+msgstr "Океан"
 
 #: Ultimate_Random_Maps/scenarios/scenarios.cfg:42
 msgid "Flyers and sea creatures have the advantage in this watery map."
-msgstr ""
+msgstr "Летающие и водные существа имеют преимущество в этой водной карте."
 
 #: Ultimate_Random_Maps/scenarios/scenarios.cfg:43
 msgid "River"
-msgstr ""
+msgstr "Река"
 
 #: Ultimate_Random_Maps/scenarios/scenarios.cfg:43
 msgid ""
 "Meeting the challenge of fording the river is the key to victory on this map."
-msgstr ""
+msgstr "Ответ на вызов переправления вброд реки - ключ к победе на этой карте."
 
 #: Ultimate_Random_Maps/scenarios/scenarios.cfg:44
 msgid ""
 "A variety of terran awaits you on this map. Based on mainline Random map, "
 "with a few changes."
-msgstr ""
+msgstr "Большое разнообразие земли на этой карте. Основано на карте Random Map, с небольшими изменениями."
 
 #: Ultimate_Random_Maps/scenarios/scenarios.cfg:44
 msgid "Vale"
-msgstr ""
+msgstr "Долина"
 
 #: Ultimate_Random_Maps/scenarios/scenarios.cfg:45
 msgid "Do battle on the parched, barren land surrounding an active volcano."
-msgstr ""
+msgstr "Сразитесь на этой выжженной, бесплодной земле вокруг дествующего вулкана."
 
 #: Ultimate_Random_Maps/scenarios/scenarios.cfg:45
 msgid "Volcano"
-msgstr ""
+msgstr "Вулкан"
 
 #: Ultimate_Random_Maps/scenarios/scenarios.cfg:46
 msgid "Wastes"
-msgstr ""
+msgstr "Порча"
 
 #: Ultimate_Random_Maps/scenarios/scenarios.cfg:46
 msgid "Sand is everywhere in this extremely harsh environment."
-msgstr ""
+msgstr "Песок везде в этой экстремально суровой среде."
 
 #: Ultimate_Random_Maps/scenarios/scenarios.cfg:47
 msgid ""
 "Snow is the primary terrain. Based on mainline Random map (Winter), with a "
 "few changes."
-msgstr ""
+msgstr "Снег - главный ландшафт этой карты. Основано на карте Случайая карта (Зима), с небольшими изменениями."
 
 #: Ultimate_Random_Maps/scenarios/scenarios.cfg:47
 msgid "Winter"
-msgstr ""
+msgstr "Зима"
